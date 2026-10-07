@@ -12,4 +12,4 @@
 
 **Проверка файлов:** [EXE](https://www.virustotal.com/gui/file/fe0e83b37f52814cec717f7d4a0c29dadee36d4200df4f2da83ed7d1d89c274e/detection) · [собственная DLL](https://www.virustotal.com/gui/file/10858293877aecfcef4cedfc03f83e93f37478af773d86290968a2c80232f10c/detection) · [ZIP](https://www.virustotal.com/gui/file/cb1a34452512a650264325ffda230788b4025a7bdefd631c4f5f63077d718d7c/detection). В сохранённом отчёте DLL **1/68: SecureAge — Malicious**; запрос на пересмотр отправлен, решение пока не подтверждено. Программа без сертификата цифровой подписи; ни один AV-отчёт не гарантирует 100% безопасности. Подробности — [SECURITY.md](SECURITY.md), контрольные суммы — [SHA256.txt](SHA256.txt).
 
-Публичное имя выпуска — **1.0**; внутренняя версия неизменённой сборки — **0.2.1**. [Открытые исходники для проверки](https://github.com/woollkey5-alt/step-pc-optimizer/releases/download/v1.0/PCOptimizer-0.2.1-source-review.zip).
+Публичное имя выпуска — **1.0**; внутренняя версия неизменённой сборки — **0.2.1**.
